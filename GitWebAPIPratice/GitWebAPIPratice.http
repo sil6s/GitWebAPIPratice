@@ -1,6 +1,6 @@
 @GitWebAPIPratice_HostAddress = http://localhost:5042
 
-GET {{GitWebAPIPratice_HostAddress}}/weatherforecast/
+GET {{GitWebAPIPratice_HostAddress}}/api/name
 Accept: application/json
 
 ###
